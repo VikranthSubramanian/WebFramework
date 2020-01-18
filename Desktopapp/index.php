@@ -386,7 +386,7 @@ if(isset($_POST["submit3"]))
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC98niJQLRz-TfkXlfHTVIT9s7x0VbZ5Bc&sensor=false">
+  <script src="https://maps.googleapis.com/maps/api/js?&sensor=false">
   </script>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js">
   </script>
